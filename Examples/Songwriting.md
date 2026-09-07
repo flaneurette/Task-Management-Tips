@@ -4,14 +4,14 @@ Same technique, applied to a creative/lyrical project.
 
 #### 0. Requirements
 
--  A notebook/file called "Lyrics & Fragments -  daily pages"
--  A file called "Collection Outline" (or "Album Outline")
--  A file called "Alternative ideas / Leftover lines" as a doubt log
--  15 minutes a day to write at least a few lines or one verse.
+-  A file called "Lyrics - daily pages"
+-  A file called "Album Outline"
+-  A file called "Alternative ideas" as a doubt log
+-  15 minutes a day to write
 
 #### 1. Project Sentence (The Theme)
 
-Summarize the entire project/collection in one sentence -  its emotional or thematic core.
+Summarize the entire project/collection in one sentence - its emotional or thematic core.
 
 > *"An album about leaving home and slowly learning to feel at peace with impermanence."*
 
@@ -55,26 +55,26 @@ Beats for "Old Room":
 
 #### 5. Start Writing Toward the Beat
 
-Pick one image/beat and write toward *just that* - a couplet, a verse, a line. Don't try to finish the whole song in one sitting.
+Pick one image/beat and write toward *just that* - a couplet, a verse, a line.
 
 #### 6. Daily Writing
 
-Write **a few lines or one verse per day**. Momentum matters more than length - a stanza a day compounds into a full piece.
+Write a few lines or one verse per day
 
 #### 7. Doubt Log / Leftover Lines
 
-If a striking line or image comes up that doesn't fit the current piece, don't force it in - drop it in the "leftover lines" file. Great lines often find a home in a *different* song later.
+If a striking line or image comes up that doesn't fit the current piece, don't force it in - drop it in the "leftover lines" file.
 
 #### 8. Building Toward the Piece's Ending
 
-Write verse by verse toward the emotional resolution (or intentional non- resolution) of that specific song/poem.
+Write verse by verse toward the emotional resolution
 
 #### 9. Building Toward the Collection's Arc
 
-Zoom out: make sure the sequence of songs/poems builds toward the album/collection's overall emotional arc (departure -> numbness -> grief -> adaptation -> peace).
+Zoom out: make sure the sequence of songs/poems builds toward the album/collection's overall emotional arc
 
 #### 10. Editing / Revision Pass
 
 Once a full draft exists, read through out loud (important for lyrics/poetry - rhythm and breath matter). Cut filler lines, tighten images, check the piece still serves its one- sentence emotional core.
 
-##### **Core Principle:** Step by step, not too much at once - one image, one line, one verse at a time.
+#### **Core Principle:** Step by step, not too much at once - one image, one line, one verse at a time.
