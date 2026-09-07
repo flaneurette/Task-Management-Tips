@@ -57,19 +57,19 @@ Beats for Module 1 (Authentication):
 
 #### 5. Start Coding Toward the Beat
 
-Pick the first beat (e.g., sign-up form) and just build that - don't jump ahead to password hashing or login yet.
+Pick the first beat (e.g., sign-up form) and just build that
 
 #### 6. Daily Coding
 
-Write/commit **a small working piece per day** - one function, one component, one test. Consistency over volume: a tiny working commit beats a stalled ambitious one.
+Write/commit **a small working piece per day** - one function, one component, one test.
 
 #### 7. Doubt Log / Backlog
 
-If you think of a feature or refactor that doesn't belong to the current module (e.g., "what if we add social sharing?"), log it in the backlog file instead of chasing it mid-task. Keeps focus on the beat at hand.
+If you think of a feature or refactor, log it in the backlog file instead of chasing it mid-task.
 
 #### 8. Building Toward Module Completion
 
-Chain the beats together until the module works end-to-end (e.g., full auth flow functions and passes tests).
+Chain the beats together until the module works end-to-end
 
 #### 9. Building Toward Project Completion
 
@@ -77,13 +77,9 @@ Do the same at the macro level - complete modules one at a time until they integ
 
 #### 10. Code Review / Editing
 
-At the end (or per module), do a slow pass: refactor, clean up naming, remove dead code, check edge cases - same as a writer editing chapter by chapter.
+At the end do a slow pass: refactor, clean up naming, remove dead code, check edge cases
 
----
-
-##### **Core Principle:** Step by step, not too much at once - one function, one beat, one commit at a time.
-
----
+#### **Core Principle:** Step by step, not too much at once - one function, one beat, one commit at a time.
 
 This mapping shows the pattern holds regardless of domain: 
 
