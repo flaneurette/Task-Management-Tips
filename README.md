@@ -24,11 +24,13 @@ e.g.:
 
 List the chapters:
 
-1. Vulnerability
-2. Psychological Mechanisms
-3. Examples and Stories
-4. Solutions
-5. References
+```
+  1. Vulnerability
+  2. Psychological Mechanisms
+  3. Examples and Stories
+  4. Solutions
+  5. References
+```
 
 #### 3. Chapter Sentences
 
@@ -48,7 +50,7 @@ Key points / beats in Chapter 1:
 ```
 1. Vulnerability: people are vulnerable for reason Z"*.
 
-  1.1. People are vulnerable
+  1.1. People are vulnerable, these are the reasons.
   1.2. Vulnerability is everywhere
   1.3. We must move forward together
   1.4. Defending ourselves is possible
