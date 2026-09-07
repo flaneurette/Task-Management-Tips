@@ -1,16 +1,28 @@
 # Task-Management-Tips
 Task Management Tips
 
-#### *Core Principle: Step by step, not too much at once, to prevent overwhelm*
+The following is known or overlap as:
 
-An example for writing a book. The same technique applies to any field
+- working backwards
+- backwards design
+- atomic habits
+- task management tips
+  
+### *Core Principle: Step by step, not too much at once, to prevent overwhelm*
+
+The core principle is the most important: keep things manageable by introducing limitations, bracketing before blotting in.
+It is similar as how an artists first draws a skeleton before comitting to a shape, form or fleshing out a drawing.
+
+# An example for writing a book. 
+
+The same technique applies to any field
 
 #### 0. Requirements
 
-1. A notepad with a file called "My book - daily pages"
-2. A file called "Outline"
-3. A file called "Alternative ideas" as a doubt log.
-4. 15 minutes a day to write at least one page.
+- A notepad with a file called "My book - daily pages"
+- A file called "Outline"
+- A file called "Alternative ideas" as a doubt log.
+- 15 minutes a day to write at least one page.
 
 #### 1. Project Sentence
 
