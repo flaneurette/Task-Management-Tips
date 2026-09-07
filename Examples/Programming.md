@@ -4,16 +4,15 @@ Same technique, applied to software development.
 
 #### 0. Requirements
 
-- A repo with a file called "Dev log - daily notes"
-- A file called "Architecture Outline"
-- A file called "Backlog / Alternative ideas" as a doubt log
+- A file called "App Outline"
+- A file called "Alternative ideas" as a doubt log
 - 15–30 minutes a day to write or refactor at least one small piece.
 
 #### 1. Project Sentence
 
 Summarize the entire project in one sentence.
 
-> *"A web app that lets users track daily habits and visualizes their progress over time."*
+> *"Novellaty: A web app that lets users track daily habits and visualizes their progress over time."*
 
 #### 2. Outline Modules
 
