@@ -7,12 +7,27 @@ The following is known or overlap as:
 - backwards design
 - atomic habits
 - task management tips
+- component mapping
   
 ### *Core Principle: Step by step, not too much at once, to prevent overwhelm*
 
 The core principle is the most important: keep things manageable by introducing limitations, bracketing before blotting in.
 It is similar as how artists first draw a skeleton before committing to a shape, form or fleshing out a drawing. 
 
+### Mapping
+
+This mapping shows the pattern holds regardless of domain: 
+
+- big idea 
+- components 
+- one-liners
+- small concrete tasks
+- fleshing out each component
+- daily consistent execution
+- doubt-parking
+- incremental assembly
+- final review
+  
 # An example for writing a book. 
 
 The same technique applies to any field
