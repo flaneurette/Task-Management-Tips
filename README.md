@@ -8,7 +8,7 @@ An example for writing a book. The same technique applies to any field
 #### 0. Requirements
 
 1. A notepad with a file called "My book - daily pages"
-2. A file with a file called "Outline"
+2. A file called "Outline"
 3. A file called "Alternative ideas" as a doubt log.
 4. 15 minutes a day to write at least one page.
 
