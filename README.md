@@ -11,7 +11,7 @@ The following is known or overlap as:
 ### *Core Principle: Step by step, not too much at once, to prevent overwhelm*
 
 The core principle is the most important: keep things manageable by introducing limitations, bracketing before blotting in.
-It is similar as how an artists first draws a skeleton before comitting to a shape, form or fleshing out a drawing.
+It is similar as how artists first draw a skeleton before committing to a shape, form or fleshing out a drawing. 
 
 # An example for writing a book. 
 
