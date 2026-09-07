@@ -92,6 +92,7 @@ This mapping shows the pattern holds regardless of domain:
 - components 
 - one-liners
 - small concrete tasks
+- fleshing out each component
 - daily consistent execution
 - doubt-parking
 - incremental assembly
