@@ -86,4 +86,13 @@ At the end (or per module), do a slow pass: refactor, clean up naming, remove de
 
 ---
 
-This mapping shows the pattern holds regardless of domain: **big idea -> components -> one-liners -> small concrete tasks -> daily consistent execution -> doubt-parking -> incremental assembly -> final review.** 
+This mapping shows the pattern holds regardless of domain: 
+
+- big idea 
+- components 
+- one-liners
+- small concrete tasks
+- daily consistent execution
+- doubt-parking
+- incremental assembly
+- final review
