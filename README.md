@@ -108,4 +108,4 @@ At the end, read through slowly, chapter by chapter, and check for necessary imp
 
 ---
 
-##### **Core Principle:** Step by step, not too much at once.
+#### **Core Principle:** Step by step, not too much at once.
