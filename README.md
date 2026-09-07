@@ -14,11 +14,11 @@ An example for writing a book. The same technique applies to any field
 
 #### 1. Project Sentence
 
-Summarize the entire project in **one sentence** 
+Summarize the entire project in one sentence.
 
 e.g.: 
 
-### *"People are psychologically vulnerable for reasons X and Y"*.
+### *"People are psychologically vulnerable for reasons X and Y*.
 
 #### 2. Outline Chapters
 
@@ -35,13 +35,14 @@ List the chapters:
 Summarize each chapter in **one sentence** 
 
 ```
-  1. Vulnerability: people are vulnerable for reason Z"*.
+  1. Vulnerability: people are vulnerable for reason Z*.
   2. Psychological Mechanisms: Method A, B, and C
+  etc.
 ```
 
 #### 4. Key Points per Chapter
 
-For each chapter, create a list of **5–10 key points** or *"beats"* you want to hit before writing page by page. This prevents getting stuck midway.
+For each chapter, create a list of 5-10 key points or *"beats"* you want to hit before writing page by page. This prevents getting stuck midway.
 
 Key points / beats in Chapter 1:
 ```
@@ -62,19 +63,19 @@ Write **1 page per day** (±365 pages per year), more if it feels comfortable.
 
 #### 7. Doubt Log
 
-If you get an idea during writing that doesn’t fit the current chapter, **note it separately** so the writing flow isn’t interrupted.
+If you get an idea during writing that doesn’t fit the current chapter, note it separately so the writing flow isn’t interrupted.
 
 #### 8. Building Toward Chapter Conclusions
 
-Build toward the conclusion of each chapter **page by page**.
+Build toward the conclusion of each chapter page by page.
 
 #### 9. Building Toward Project Conclusion
 
-Do the same on a larger scale: build toward the conclusion of the entire project **with each chapter**.
+Do the same on a larger scale: build toward the conclusion of the entire project with each chapter.
 
 #### 10. Editing
 
-At the end, read through slowly, **chapter by chapter**, and check for necessary improvements.
+At the end, read through slowly, chapter by chapter, and check for necessary improvements.
 
 ---
 
